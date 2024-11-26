@@ -118,6 +118,7 @@ public class BrickerGameManager extends GameManager {
 
         gameObjects().addGameObject(bigBrick);
 
+
     }
 
 
